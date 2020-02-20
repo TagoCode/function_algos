@@ -3,6 +3,13 @@
 
 function greaterThanY(arr, y){
     // YOUR CODE HERE
+    var count=0
+    for(var i=0; i<arr.length; i++){
+       if(arr[i] > y){
+           count = count + 1
+       }
+    }
+    return count
 }
 var result = greaterThanY([1,6,8,3,5,2], 4);
 console.log(result);

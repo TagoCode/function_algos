@@ -1,5 +1,5 @@
 // So far we've run each of our functions for a single set of inputs and it works! 
-// However, the power of functions comes from being able to run our code for a hug variety of inputs
+// However, the power of functions comes from being able to run our code for a huge variety of inputs
 // It's a good idea to run our code with a variety of test cases to ensure it continues working as expected
 
 // NOTE: If your original code doesn't work for some of these cases, that's okay!
